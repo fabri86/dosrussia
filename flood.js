@@ -3,7 +3,10 @@ var targets = {
       number_of_requests: 0,
       number_of_errored_responses: 0,
     },
-    "https://ria.ru/": { number_of_requests: 0, number_of_errored_responses: 0 },
+    "https://ria.ru/": { 
+        number_of_requests: 0, 
+        number_of_errored_responses: 0 
+    },
     "https://ria.ru/lenta/": {
       number_of_requests: 0,
       number_of_errored_responses: 0,
@@ -28,7 +31,10 @@ var targets = {
       number_of_requests: 0,
       number_of_errored_responses: 0,
     },
-    "https://tass.ru/": { number_of_requests: 0, number_of_errored_responses: 0 },
+    "https://tass.ru/": { 
+        number_of_requests: 0, 
+        number_of_errored_responses: 0 
+    },
     "https://tvzvezda.ru/": {
       number_of_requests: 0,
       number_of_errored_responses: 0,
@@ -52,6 +58,34 @@ var targets = {
     "https://sberbank.ru/": {
       number_of_requests: 0,
       number_of_errored_responses: 0,
+    },
+    "https://yandex.ru/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://sputniknews.com/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://inosmi.ru/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://gazeta.ru/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://kommersant.ru/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://rubaltic.ru/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
+    },
+    "https://ura.news/": {
+        number_of_requests: 0,
+        number_of_errored_responses: 0,
     },
   };
   
