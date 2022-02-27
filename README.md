@@ -5,6 +5,7 @@ taken from
 
 # ddosrussia
 Popular (already banned) ddosing website moved to Electron app, so it does not care about CORS.
+https://0xacab.org/haxploited/ddosrussia/-/tree/no-masters
 
 PRE-REQUISITES
 
